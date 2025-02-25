@@ -5,3 +5,4 @@ export * from "./Input";
 export * from "./Dialog";
 export * from "./Alert";
 export * from "./AlertDialog"
+export * from "./Test"

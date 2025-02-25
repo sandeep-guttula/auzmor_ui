@@ -41,7 +41,11 @@ export default defineConfig({
         }),
       ],
     },
+    target: "es2015",
     sourcemap: true,
     emptyOutDir: true,
+  },
+  esbuild: {
+    target: "es2015",
   },
 })
