@@ -6,3 +6,6 @@ export * from "./Dialog";
 export * from "./Alert";
 export * from "./AlertDialog"
 export * from "./Test"
+export * from "./ThemeProvider/ThemeProvider";
+export * from "./DesignSystemProvider/DesignSystemProvider";
+export * from "./Typography";

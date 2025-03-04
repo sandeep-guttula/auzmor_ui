@@ -22,7 +22,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: path.resolve(__dirname, "./src/components/index.tsx"),
-      name: "AuzmorUI",
+      name: "TestUIAuzmor",
       fileName: (format) => `index.${format}.js`,
       formats: ["cjs", "es"],
     },
